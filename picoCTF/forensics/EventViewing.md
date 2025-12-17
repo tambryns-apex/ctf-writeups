@@ -47,6 +47,7 @@ Installer-related events were located by filtering for the `MsiInstaller` provid
 
 ```bash
 grep -i "MsiInstaller" Windows_Logs.jsonl
+```
 
 These events confirmed that a software package had been successfully installed shortly before the system began exhibiting abnormal behavior. One of the installer log entries contained the first fragment of the flag: "cGljb0NURntFdjNudF92aTN3djNyXw==." This was converted from Base64 to reveal: "picoCTF{Ev3nt_vi3wv3r_."
 
