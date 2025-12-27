@@ -1,11 +1,8 @@
 # Windows Malware Shutdown Persistence - Forensics CTF Write-Up
 
-**Category:** Forensics
-
-**Difficulty:** Medium
-
-**Platform:** PicoCTF
-
+**Category:** Forensics  
+**Difficulty:** Medium  
+**Platform:** PicoCTF  
 **Artifacts provided:** Windows EVTX Logs
 
 ---
