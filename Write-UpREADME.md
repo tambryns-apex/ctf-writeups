@@ -9,21 +9,22 @@ and mitigation.
 
 ---
 
-## 🧠 Focus Areas
+## Focus Areas
 - Web Exploitation
 - Cryptography
 - Reverse Engineering
-- Binary Exploitation (intro)
+- Forensics
+- Binary Exploitation
 - General Security Concepts
 
 ---
 
-## 📁 Platforms
+## Platforms
 - picoCTF
 
 ---
 
-## ✍️ Write-Up Philosophy
+## Write-Up Philosophy
 Each write-up includes:
 - Clear problem understanding
 - Root cause analysis of the vulnerability
@@ -34,12 +35,6 @@ I avoid copy-paste command dumps and instead focus on **communicating technical 
 
 ---
 
-## ⚠️ Disclaimer
-All write-ups are based on **intentionally vulnerable challenges** and are for
-educational purposes only.  
-No active machines or restricted challenges are documented.
 
----
-
-## 📌 Contact
+## Contact
 GitHub: https://github.com/[tambryns-apex]
