@@ -1,8 +1,8 @@
 # Login Bypass via SQL Injection
 
-**CTF:** picoCTF  
 **Category:** Web Exploitation  
-**Difficulty:** Easy  
+**Difficulty:** Easy
+**Platform:** picoCTF
 
 ---
 
