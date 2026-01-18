@@ -10,7 +10,7 @@
 
 We are given an RSA-encrypted message. The modulus `n` is extremely large, making factorization infeasible with current methods. Instead, the vulnerability lies in how RSA was configured.
 
-The goal is to analyze the provided parameters consider alternative attacks and recover the plaintext flag.
+The goal is to analyze the provided parameters, consider alternative attacks, and recover the plaintext flag.
 
 ---
 
