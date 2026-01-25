@@ -43,7 +43,7 @@ page and revealing the flag.
 
 ---
 
-## Mitigation / Lessons Learned
+## Key Takeaways
 - Use parameterized queries (prepared statements)
 - Avoid exposing detailed database error messages
 - Implement strict server-side input validation
