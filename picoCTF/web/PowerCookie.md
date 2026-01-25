@@ -2,7 +2,7 @@
 
 **Category:** Web Exploitation  
 **Difficulty:** Medium  
-**Platform:** Custom CTF
+**Platform:** picoCTF
 
 ---
 
